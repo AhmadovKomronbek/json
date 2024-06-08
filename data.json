@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "name": "Komronbek",
+            "age": 15,
+            "programming language": "python"
+        },
+        {
+            "name": "Akobir",
+            "age": 13,
+            "programming language": "HTML"
+        },
+        {
+            "name": "Abubakr",
+            "age": 15,
+            "programming language": "JavaScript"
+        }
+    ]
+}
